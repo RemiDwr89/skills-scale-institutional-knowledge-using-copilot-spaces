@@ -10,7 +10,7 @@ Welcome to the OctoAcme Project Management Docs! This folder contains all proces
 
 - **Customer-first**: Prioritize customer value and usability in every decision.
 - **Iterative delivery**: Deliver small, testable increments to reduce risk and gather feedback early.
-- **Clear ownership**: Each project has a named Project Manager (PM) and Product Lead accountable for outcomes.
+- **Clear ownership**: Each project has a named Project Manager (PM) and Product Manager (PdM) accountable for outcomes.
 - **Data-informed decisions**: Measure impact and iterate based on evidence rather than assumptions.
 - **Psychological safety**: Encourage open feedback, learning from mistakes, and experimentation.
 
